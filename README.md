@@ -30,3 +30,5 @@ Feedback: Feedback provided by the customer after receiving the order.
 
 # Purpose:
 This dataset can be utilized to explore the relationship between demographic/location factors and online food ordering behavior, analyze customer feedback to improve service quality, and potentially predict customer preferences or behavior based on demographic and location attributes.
+
+https://www.kaggle.com/code/jackjai/online-food-with-dnn
